@@ -1,0 +1,21 @@
+{
+  "verbose": true,
+  "testEnvironment": "jsdom",
+  "setupFilesAfterEnv": ["<rootDir>/src/setupTests.js"],
+  "collectCoverage": true,
+  "collectCoverageFrom": ["src/**/*.{js,jsx}"],
+  "coverageDirectory": "coverage",
+  "coverageThreshold": {
+    "global": {
+      "branches": 60,
+      "functions": 60,
+      "lines": 60,
+      "statements": 60
+    }
+  },
+  "coveragePathIgnorePatterns": [
+    "<rootDir>/src/pages/Playground/Playground.jsx",
+    "<rootDir>/src/main.jsx"
+  ],
+  "moduleNameMapper": { "\\.css$": "<rootDir>/src/utils/styleMock.js" }
+}

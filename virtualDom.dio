@@ -1,0 +1,40 @@
+<mxfile host="65bd71144e">
+    <diagram id="ILACJhav3ilRsJlakJ-C" name="Page-1">
+        <mxGraphModel dx="1194" dy="798" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="6" value="VIRTUAL DOM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#fff2cc;strokeColor=#d6b656;verticalAlign=top;fontStyle=0" vertex="1" parent="1">
+                    <mxGeometry x="30" width="620" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&amp;lt;body&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="&amp;lt;/body&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="80" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="&amp;lt;input type=&quot;email&quot; value=&quot;asd&quot;/&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="140" width="450" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="&amp;lt;input type=&quot;password&quot; /&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="160" y="220" width="350" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="UNDERLYING DOM" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;fillColor=#d5e8d4;strokeColor=#82b366;verticalAlign=top;" vertex="1" parent="1">
+                    <mxGeometry x="770" width="580" height="430" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="&amp;lt;body&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="820" y="60" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="&amp;lt;/body&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="820" y="300" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&amp;lt;input type=&quot;email&quot; value=&quot;asd&quot;/&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="140" width="420" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="&amp;lt;input type=&quot;password&quot; /&amp;gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=25;" vertex="1" parent="1">
+                    <mxGeometry x="900" y="220" width="350" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
